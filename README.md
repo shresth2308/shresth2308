@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate student.<br><br>I love exploring new technologies and building impactful projects.<br><br>Currently learning more about Full Stack Development and Cloud Computing.<br><br>I enjoy writing clean, efficient code and solving complex problems.
+I'm a passionate student.<br>I love exploring new technologies and building impactful projects.<br>Currently learning more about Full Stack Development and Cloud Computing.<br>I enjoy writing clean, efficient code and solving complex problems.
 
 
 ## 🌐 Socials:
